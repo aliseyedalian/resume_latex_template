@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  5 MAY 2022 21:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  5 MAY 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -296,6 +296,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--123
 
  []
 
