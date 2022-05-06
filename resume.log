@@ -1,7 +1,6 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  6 MAY 2022 08:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  6 MAY 2022 13:16
 entering extended mode
  restricted \write18 enabled.
- Source specials enabled.
  %&-line parsing enabled.
 **resume.tex
 (./resume.tex
@@ -238,54 +237,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--102
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
 
  []
 
@@ -296,7 +290,7 @@ ex-text;!
 Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--117
+Underfull \hbox (badness 10000) in paragraph at lines 103--116
 
  []
 
@@ -304,10 +298,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--117
 Here is how much of TeX's memory you used:
  7555 strings out of 476179
  121426 string characters out of 5809544
- 430051 words of memory out of 5000000
+ 431051 words of memory out of 5000000
  28260 multiletter control sequences out of 15000+600000
  469683 words of font info for 37 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,9n,64p,210b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,9n,64p,210b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on resume.pdf (2 pages).
