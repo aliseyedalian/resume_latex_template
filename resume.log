@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  11 MAY 2022 15:37
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.19)  12 MAY 2022 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,14 +283,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
  []
 
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]:mapping=t
-ex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--124
 
  []
 
@@ -298,7 +297,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--115
 Here is how much of TeX's memory you used:
  7555 strings out of 476179
  121426 string characters out of 5809544
- 431051 words of memory out of 5000000
+ 430051 words of memory out of 5000000
  28260 multiletter control sequences out of 15000+600000
  469683 words of font info for 37 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
